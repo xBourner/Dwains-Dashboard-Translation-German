@@ -1,4 +1,3 @@
-const translations = {
     //DE German
     de: {     
         global: {      
@@ -80,6 +79,7 @@ const translations = {
             icon_required: 'Es muss ein Icon gewählt werden, um dies der Navigationsleiste hinzuzufügen!',       
             icon: 'Icon des Geräts',        
             show_in_navbar: 'Füge Geräte Seite der Navigationsleiste hinzu.',      
+            see_all: 'Zeige Alle',
             on: 'an',      
             open: 'offen',      
             cover: 'Beschattung',       
@@ -87,7 +87,7 @@ const translations = {
             climate: 'Klima',     
             sensor: 'Sensor',      
             binary_sensor: 'Binärer Sensor',   
-            media_player: 'Mediensteuerung',    
+            media_player: 'Medien',    
             remote: 'Fernbedienung',      
             scene: 'Szene',     
             number: 'Nummer',   
@@ -104,6 +104,10 @@ const translations = {
             motion: 'Bewegung',    
             device_tracker: 'Geräte-Tracker',
             lock: 'Schloss',
+            input_boolean: 'Input Boolean',
+            weather: 'Wetter',
+            moisture: 'Feuchtigkeit',
+            input_select: 'Input Select',
         },     
         more: {          
             title: 'Weitere',          
@@ -133,5 +137,3 @@ const translations = {
             instruction: 'Suche im Dwains Dashboard Community Blueprints Github nach dem Blueprint die installiert werden soll und füge den   YAML Code unten ein. Nach erfolgreicher Installation wird die Seite neugeladen. Danach kann der Blueprint genutzt werden.',     
         },   
     },
-
-}  
