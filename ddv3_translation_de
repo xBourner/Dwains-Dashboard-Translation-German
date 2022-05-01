@@ -1,4 +1,4 @@
-    //DE German
+  //DE German
     de: {     
         global: {      
             dwains_dashboard_settings: 'Dwains Dashboard Einstellungen',        
@@ -45,7 +45,10 @@
             group: 'Gruppierung nach Entitäten',         
             ungroup: 'Gruppierung nach Entitäten aufheben',       
             enable: 'Aktiviere Entität',       
-            disable: 'Deaktiviere Entität in DD',          
+            disable: 'Deaktiviere Entität in DD',     
+            disable_all: 'Deaktiviere alle Entitäten',
+            hide_all: 'Blende alle Entitäten aus',
+            exclude: 'Exclude entity in DD',     
             hide: 'Blende Entität in DD aus',        
             unhide: 'Blende Entität in DD ein',       
             use_popup_card: 'Nutze eigene Pop-up Karte',      
@@ -72,6 +75,9 @@
             icon: 'Icon des Bereichs',        
             floor: 'Etage',      
             no_floor: 'Keine Etagen',
+            disable: 'Deaktiviere Bereich in DD',
+            disabled: 'Folgende Bereiche sind deaktiviert:',
+            enable: 'Aktiviere Bereich',
         },    
         device: {         
             title: 'Gerät',       
@@ -120,6 +126,8 @@
             smoke: 'Rauch',
             tamper: 'Manipulation',
             update: 'Update',
+            person: 'Person',
+            alarm_control_panel: 'Alarmanlage',
         },     
         more: {          
             title: 'Weitere',          
