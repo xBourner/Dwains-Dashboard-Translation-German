@@ -1,5 +1,5 @@
   //DE German
-    de: {     
+   de: {     
         global: {      
             dwains_dashboard_settings: 'Dwains Dashboard Einstellungen',        
             enable_edit_mode: 'Aktiviere Bearbeitungsmodus',        
@@ -14,6 +14,7 @@
             greeting_morning: 'Guten Morgen',       
             greeting_afternoon: 'Guten Tag',      
             greeting_evening: 'Guten Abend',     
+            v2_mode: 'Aktiviere Dwains Dashboard v2 Layout',
         },     
         editor: {        
             lovelace_card: 'Lovelace Karte',        
@@ -90,7 +91,11 @@
             icon_required: 'Es muss ein Icon gewählt werden, um dies der Navigationsleiste hinzuzufügen!',       
             icon: 'Icon des Geräts',        
             show_in_navbar: 'Füge Geräte Seite der Navigationsleiste hinzu.',      
+            hide: 'Blende Geräteübersicht aus',
+            unhide: 'Blende Geräteübersicht ein',
+            hidden: 'Folgende Geräteübersichten sind ausgeblendet',
             see_all: 'Zeige Alle',
+            turn_all_off: 'Schalte alle aus',
             on: 'an',      
             open: 'offen',      
             cover: 'Beschattung',       
