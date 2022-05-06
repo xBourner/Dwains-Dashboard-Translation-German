@@ -49,7 +49,7 @@
             disable: 'Deaktiviere Entität in DD',     
             disable_all: 'Deaktiviere alle Entitäten',
             hide_all: 'Blende alle Entitäten aus',
-            exclude: 'Exclude entity in DD',     
+            exclude: 'Schließe Entität in DD aus',     
             hide: 'Blende Entität in DD aus',        
             unhide: 'Blende Entität in DD ein',       
             use_popup_card: 'Nutze eigene Pop-up Karte',      
