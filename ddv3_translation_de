@@ -1,5 +1,5 @@
-  //DE German
-   de: {     
+     //DE German
+     de: {     
         global: {      
             dwains_dashboard_settings: 'Dwains Dashboard Einstellungen',        
             enable_edit_mode: 'Aktiviere Bearbeitungsmodus',        
@@ -133,6 +133,9 @@
             update: 'Update',
             person: 'Person',
             alarm_control_panel: 'Alarmanlage',
+            automation: 'Automation',
+            group: 'Gruppierung nach Bereichen',
+            ungroup: 'Gruppierung nach Bereichen aufheben',
         },     
         more: {          
             title: 'Weitere',          
